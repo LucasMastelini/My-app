@@ -1,0 +1,59 @@
+{
+  "FormatodoJogo": [
+    {
+      "Nomejogo": "Rainbow six siege",
+      "Genero": "FPS",
+      "Tipo": "Midia Fisica",
+      "Preco": 100,
+      "Descricao": "troco por jogos",
+      "Data": "2022-02-18T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "Nomejogo": "God of war",
+      "Genero": "Ação",
+      "Tipo": "Midia Fisica",
+      "Preco": 200,
+      "Descricao": "Melhor jogo",
+      "Data": "2022-02-18T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "Nomejogo": "Uncharted",
+      "Genero": "Ação",
+      "Tipo": "Digital",
+      "Preco": 200,
+      "Descricao": "oii",
+      "Data": "2022-02-18T03:00:00.000Z",
+      "id": 3
+    },
+    {
+      "Nomejogo": "Ori 2",
+      "Genero": "Aventura",
+      "Tipo": "Digital",
+      "Preco": 600,
+      "Descricao": "Otimo jogo indie pra passar o tempo com uma linda historia",
+      "Data": "2022-02-18T03:00:00.000Z",
+      "id": 4
+    },
+    {
+      "Nomejogo": "Limbo",
+      "Genero": "Ação",
+      "Tipo": "Digital",
+      "Preco": 80,
+      "Descricao": "Jogo indie para passar o tempo",
+      "Data": "2022-02-18T03:00:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
